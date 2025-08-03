@@ -18,7 +18,7 @@ import java.util.Locale;
 public class LivesTimer {
 
     public static final int MAX_LIVES = 5;
-    public static final long LIVES_CD = 1200000;   // 20 min = 1200000ms
+    public static final long LIVES_CD = 1000;   // 20 min = 1200000ms
 
     private final Activity mActivity;
 
